@@ -22,7 +22,8 @@
         }
     ],
     "require": {
-        "craftcms/cms": "^4.0.0"
+        "craftcms/cms": "^4.0.0",
+        "craftcms/commerce": "^4.0.0"
     },
     "autoload": {
         "psr-4": {
@@ -49,6 +50,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require-dev": {
-        "craftcms/rector": "dev-main"
+        "craftcms/rector": "dev-main",
+        "craftcms/phpstan": "dev-main"
     }
 }

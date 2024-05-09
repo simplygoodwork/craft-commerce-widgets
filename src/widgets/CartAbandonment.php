@@ -10,6 +10,8 @@ use craft\base\Widget;
 use craft\helpers\StringHelper;
 use craft\db\Query;
 
+use Exception;
+
 class CartAbandonment extends Widget
 {
 

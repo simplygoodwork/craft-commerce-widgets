@@ -9,6 +9,8 @@ use Craft;
 use craft\base\Widget;
 use craft\helpers\StringHelper;
 
+use Exception;
+
 class ProductsRecent extends Widget
 {
 

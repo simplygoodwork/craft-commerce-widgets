@@ -14,6 +14,8 @@ use craft\i18n\Locale;
 use craft\db\Query;
 use craft\records\Session;
 
+use Exception;
+
 class TotalRevenueOrders extends Widget
 {
 

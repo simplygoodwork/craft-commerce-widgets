@@ -11,6 +11,8 @@ use craft\helpers\StringHelper;
 use craft\db\Query;
 use craft\commerce\Plugin as CommercePlugin;
 
+use Exception;
+
 class ProductsTop extends Widget
 {
 
