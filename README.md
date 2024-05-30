@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/bymayo/commerce-widgets/craft-4/resources/icon.png" width="60">
+<img src="https://raw.githubusercontent.com/bymayo/commerce-widgets/craft-5/resources/icon.png" width="60">
 
-# Commerce Widgets for Craft CMS 4
+# Commerce Widgets for Craft CMS 5
 
 Commerce Widgets is a Craft CMS plugin that gives you insightful dashboard widgets for your Craft Commerce store.
 
@@ -8,7 +8,7 @@ They help you see a better overview of your stores performance, by viewing aband
 
 All these help you to optimise your store and in turn (hopefully) increase your revenue and orders.
 
-<img src="https://raw.githubusercontent.com/bymayo/commerce-widgets/craft-4/resources/screenshot.jpg" width="850">
+<img src="https://raw.githubusercontent.com/bymayo/commerce-widgets/craft-5/resources/screenshot.jpg" width="850">
 
 ## Install
 
@@ -19,8 +19,8 @@ You can also install the plugin via the Plugin Store in the Craft Admin CP by se
 
 ## Requirements
 
-- Craft CMS 4.x
-- Craft Commerce 4.x
+- Craft CMS 5.x
+- Craft Commerce 5.x
 - MySQL (PostgreSQL support is limited)
 
 ## Configuration
